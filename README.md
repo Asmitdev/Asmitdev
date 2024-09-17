@@ -17,7 +17,7 @@ I'm a **React Native Developer** and **Web Developer** with a passion for buildi
 **Location**: Lucknow Uttar Pradesh
 
 - Developed and maintained a highly scalable **e-commerce app** using **React Native**.
-- Integrated real-time notifications and messaging features using **Firebase**.
+- Integrated real-time notifications and messaging features using **Socket/firebase**.
 - Worked on **Wallet** and **Payment** modules, ensuring seamless transactions.
 - Improved app performance by optimizing code and using **Flipper** for debugging.
 

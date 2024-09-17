@@ -52,7 +52,6 @@ A Flutter-based e-commerce app with a fully responsive UI, product search, and s
 ## 📬 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/Asmitdev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/asmit)
 
 ---
 

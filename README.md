@@ -39,13 +39,18 @@ Here’s a list of technologies and tools I work with:
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Ecommerce Projects
 
-### [🚀 Dreamliner]
+### [🚀 Dreamliner && DreamViber|| Slick - Pattern || Inarca || Azex || Globaldeffi .... ]
 A comprehensive React Native project that includes features like notifications, messaging, a wallet system, and more!
 
 ### [🌐 E-commerce App](https://github.com/Admitdev/EcommerceApp)
 A Flutter-based e-commerce app with a fully responsive UI, product search, and secure payment gateway integration.
+
+
+## 📌 Other Projects
+
+### [Wallicon Business Suit(Dealer && User)] 
 
 ---
 

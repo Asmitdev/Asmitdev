@@ -10,6 +10,50 @@ I'm a **React Native Developer** and **Web Developer** with a passion for buildi
 
 ---
 
+## 💼 Experience
+
+### 🚀 Wallicon Pvt. Ltd. | React Native Developer
+**Duration**: April 2024 – Present  
+**Location**: Lucknow Uttar Pradesh
+
+- Developed and maintained a highly scalable **e-commerce app** using **React Native**.
+- Integrated real-time notifications and messaging features using **Firebase**.
+- Worked on **Wallet** and **Payment** modules, ensuring seamless transactions.
+- Improved app performance by optimizing code and using **Flipper** for debugging.
+
+---
+
+### 🏢 DigiCoders Technologies Pvt. Ltd. | React Native Developer
+**Duration**: July 2023 –  Mar 2024  
+**Location**: Lucknow, Uttar Pradesh
+
+- Built the **DreamlinerProject**, an all-in-one solution for notifications, wallets, and messaging in **React Native**.
+- Collaborated with the design team to create a **size chart feature** similar to Myntra's, ensuring a smooth user experience.
+- Integrated **Firebase Analytics** and **Cloud Messaging** to track user behavior and send personalized notifications.
+- Optimized app performance by debugging Kotlin and Java integration issues.
+- Conducted training workshops on **React Native** and **MERN stack** technologies.
+
+---
+
+### 🌱 Freelance Developer
+**Duration**: Jan 2022 – Present  
+**Location**: Remote
+
+- Worked on various freelance projects, including **e-commerce websites**, **mobile apps**, and **UI libraries**.
+- Provided end-to-end development solutions, from project setup to deployment.
+- Utilized **Next.js**, **Tailwind CSS**, and **Firebase** for web development projects.
+
+---
+
+### 🔧 Internship | MERN Stack Developer  
+**Duration**: Jan 2023 – Jun 2023  
+**Location**: DigiCoders Technologies Pvt. Ltd., Lucknow
+
+- Gained hands-on experience in **React.js**, **Node.js**, **MongoDB**, and **Express.js**.
+- Developed multiple web applications, including a **customer management system** and an **inventory dashboard**.
+- Assisted in setting up **REST APIs** and managing database schemas.
+
+
 ## 🛠 Tech Stack
 
 Here’s a list of technologies and tools I work with:
@@ -31,7 +75,7 @@ Here’s a list of technologies and tools I work with:
 ---
 
 ## 🏆 My Achievements
-
+- 🔥 Completd a 6-month training program in ** MERN Technology ** at Digicodes.
 - 🔥 Completed a 45-day training program in **Python with MySQL** at DigiCoders.
 - 💡 Built a full-fledged **e-commerce app** using **React Native**.
 - 🛠 Developed custom **UI libraries** using **React Native**.
@@ -40,17 +84,13 @@ Here’s a list of technologies and tools I work with:
 ---
 
 ## 📌 Featured Ecommerce Projects
-
-### [🚀 Dreamliner && DreamViber|| Slick - Pattern || Inarca || Azex || Globaldeffi .... ]
 A comprehensive React Native project that includes features like notifications, messaging, a wallet system, and more!
 
 ### [🌐 E-commerce App](https://github.com/Admitdev/EcommerceApp)
 A Flutter-based e-commerce app with a fully responsive UI, product search, and secure payment gateway integration.
 
 
-## 📌 Other Projects
 
-### [Wallicon Business Suit(Dealer && User)] 
 
 ---
 

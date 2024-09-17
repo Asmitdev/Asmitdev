@@ -41,10 +41,10 @@ Here’s a list of technologies and tools I work with:
 
 ## 📌 Featured Projects
 
-### [🚀 Dreamliner Project](https://github.com/YourUsername/DreamlinerProject)
+### [🚀 Dreamliner]
 A comprehensive React Native project that includes features like notifications, messaging, a wallet system, and more!
 
-### [🌐 E-commerce App](https://github.com/YourUsername/EcommerceApp)
+### [🌐 E-commerce App](https://github.com/Admitdev/EcommerceApp)
 A Flutter-based e-commerce app with a fully responsive UI, product search, and secure payment gateway integration.
 
 ---

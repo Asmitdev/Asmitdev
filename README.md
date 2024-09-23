@@ -1,5 +1,10 @@
 # Hi there! I'm Asmit 👋
 
+# My Portfolio
+
+Check out my portfolio to see my projects and skills: [Asmit's Portfolio](https://asmitdev.netlify.app/)
+
+
 ## 🚀 About Me
 I'm a **React Native Developer** and **Web Developer** with a passion for building scalable applications and exploring new technologies. I love collaborating on projects and sharing my knowledge with the community.
 

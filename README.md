@@ -6,9 +6,9 @@ Check out my portfolio to see my projects and skills: [Asmit's Portfolio](https:
 
 
 ## 🚀 About Me
-I'm a **React Native Developer** and **Web Developer** with a passion for building scalable applications and exploring new technologies. I love collaborating on projects and sharing my knowledge with the community.
+I'm a **MERN STACK DEVELOPER** with a passion for building scalable applications and exploring new technologies. I love collaborating on projects and sharing my knowledge with the community.
 
-- 💻 Currently working on: `React Native`, `Next.js`, `Tailwind CSS`
+- 💻 Currently working on:`MERN` `React Native`, `Next.js`, `Tailwind CSS`
 - 🌱 Learning more about: `Flutter`, `Firebase`, `GraphQL`
 - 🤝 Open to collaborating on: Open-source projects, freelancing, and building products.
 - 📫 Reach me: [asmitdev01@gmail.com](mailto:asmitdev01@gmail.com)
@@ -17,18 +17,18 @@ I'm a **React Native Developer** and **Web Developer** with a passion for buildi
 
 ## 💼 Experience
 
-### 🚀 Wallicon Pvt. Ltd. | React Native Developer
+### 🚀 Wallicon Pvt. Ltd. | Software Developer
 **Duration**: April 2024 – Present  
 **Location**: Lucknow Uttar Pradesh
 
-- Developed and maintained a highly scalable **e-commerce app** using **React Native**.
+- Developed and maintained a highly scalable **e-commerce Web and APP** using **React and React Native**.
 - Integrated real-time notifications and messaging features using **Socket/firebase**.
 - Worked on **Wallet** and **Payment** modules, ensuring seamless transactions.
 - Improved app performance by optimizing code and using **Flipper** for debugging.
 
 ---
 
-### 🏢 DigiCoders Technologies Pvt. Ltd. | React Native Developer
+### 🏢 DigiCoders Technologies Pvt. Ltd. | Software Developer
 **Duration**: July 2023 –  Mar 2024  
 **Location**: Lucknow, Uttar Pradesh
 
